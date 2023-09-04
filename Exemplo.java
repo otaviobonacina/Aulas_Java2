@@ -11,6 +11,11 @@
 
         System.out.println("ola mundo");
         System.out.println(pes.getNome());
+
+        ExemploFor.execute();
+        ExemploWhile.execute();
+
+
     }
 } 
 
